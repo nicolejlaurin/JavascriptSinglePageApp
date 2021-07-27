@@ -1,0 +1,2 @@
+# JavascriptSinglePageApp
+Project for school
